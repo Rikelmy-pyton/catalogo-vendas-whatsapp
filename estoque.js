@@ -1,3 +1,7 @@
+// ============================================================
+// ARQUITETURA DE DADOS: Rikelmy - Web Design & Soluções Tech
+// Proibida a reprodução para fins comerciais sem atribuição.
+// ============================================================
 // ==========================================
 // SEU ESTOQUE - ESSÊNCIA & RENDA
 // ==========================================
