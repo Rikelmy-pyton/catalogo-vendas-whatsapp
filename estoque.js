@@ -68,7 +68,8 @@ const listaDeProdutos = [
         opcoes: ["Kaiak Feminino", "Kaiak Oceano"],
         preco: "29,90",
         fotos: [
-            "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lov7ib4t1g9113", "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwc2631fd7/produto-joia/background/mobile/189391.jpg"
+            "https://down-br.img.susercontent.com/file/br-11134207-7r98o-lov7ib4t1g9113", 
+            "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwc2631fd7/produto-joia/background/mobile/189391.jpg"
         ],
         status: "✔️ Pronta Entrega",
         avaliacoes: 84
@@ -77,10 +78,14 @@ const listaDeProdutos = [
         marca: "Natura",
         categoria: "corpo",
         nome: "Desodorante Homem Masculino 75ml (7 unidades)",
-        opcoes: ["Essence", "Elo", "Dom(2)", "Nós", "Tato"],
+        opcoes: ["Essence", "Elo", "Dom", "Nós", "Tato"],
         preco: "29,90",
         fotos: [
-            "https://static.wixstatic.com/media/295529_6af1adcea0d14a5b9e5d72e8fae94a8a~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg", "https://tse1.mm.bing.net/th/id/OIP.fZD3oMmsPraQ4Ct18X8LJgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3", "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m2nvfslgnwet00", "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwb7f537c4/NATBRA-152271_2.jpg", "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwfb6dfad2/NATBRA-150222_2.jpg"
+            "https://static.wixstatic.com/media/295529_6af1adcea0d14a5b9e5d72e8fae94a8a~mv2.jpg/v1/fit/w_500,h_500,q_90/file.jpg", 
+            "https://tse1.mm.bing.net/th/id/OIP.fZD3oMmsPraQ4Ct18X8LJgHaHa?rs=1&pid=ImgDetMain&o=7&rm=3", 
+            "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m2nvfslgnwet00", 
+            "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwb7f537c4/NATBRA-152271_2.jpg", 
+            "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dwfb6dfad2/NATBRA-150222_2.jpg"
         ],
         status: "✔️ Pronta Entrega",
         avaliacoes: 312
@@ -103,7 +108,8 @@ const listaDeProdutos = [
         opcoes: ["Cereja e Avelã", "Leite de Algodão"],
         preco: "30,90",
         fotos: [
-            "https://down-br.img.susercontent.com/file/985549a7f85c885012ff9dddddc8c079", "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw29efe9f4/produto-joia/background/mobile/229966.jpg"
+            "https://down-br.img.susercontent.com/file/985549a7f85c885012ff9dddddc8c079", 
+            "https://production.na01.natura.com/on/demandware.static/-/Sites-natura-br-storefront-catalog/default/dw29efe9f4/produto-joia/background/mobile/229966.jpg"
         ],
         status: "✔️ Pronta Entrega",
         avaliacoes: 245
@@ -115,7 +121,10 @@ const listaDeProdutos = [
         preco: "29,90",
         opcoes: ["Acerola e Hibisco", "Macadamia", "Amora e Flor de Pêssego", "Cereja e Avelã"],
         fotos: [
-            "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfv6u8lmc9a8eb", "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m71kxuf7mb0ned", "https://i.ebayimg.com/images/g/KWcAAeSwSpdpG7HM/s-l960.jpg", "https://images.tcdn.com.br/img/img_prod/1241437/natura_tododia_cereja_e_avela_314_5_c8c8e978a0296b4d15075a4998c88ca5.jpg"
+            "https://down-br.img.susercontent.com/file/br-11134207-81z1k-mfv6u8lmc9a8eb", 
+            "https://down-br.img.susercontent.com/file/br-11134207-7r98o-m71kxuf7mb0ned", 
+            "https://i.ebayimg.com/images/g/KWcAAeSwSpdpG7HM/s-l960.jpg", 
+            "https://images.tcdn.com.br/img/img_prod/1241437/natura_tododia_cereja_e_avela_314_5_c8c8e978a0296b4d15075a4998c88ca5.jpg"
         ],
         status: "✔️ Pronta Entrega",
         avaliacoes: 198
@@ -123,10 +132,12 @@ const listaDeProdutos = [
     {
         marca: "Natura",
         categoria: "corpo",
-        nome: "Caixa de Sabonetes em Barra Tododia (3 caixas com 5 unidades)",
+        nome: "Caixa de Sabonetes em Barra Tododia",
         preco: "34,90",
         opcoes: ["Tâmara e Canela", "Flor de Gengibre e Tangerina", "Limão Siciliano e Gardênia"], 
         fotos: [
+            "https://http2.mlstatic.com/D_Q_NP_875968-MLB92276210114_092025-F.webp",
+            "https://http2.mlstatic.com/D_Q_NP_875968-MLB92276210114_092025-F.webp", // Repeti a foto se não tiver individual
             "https://http2.mlstatic.com/D_Q_NP_875968-MLB92276210114_092025-F.webp"
         ],
         status: "✔️ Pronta Entrega",
