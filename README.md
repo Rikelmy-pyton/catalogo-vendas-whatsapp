@@ -4,7 +4,7 @@ Este projeto é uma solução de e-commerce leve e funcional, desenvolvida para 
 
 ## 🚀 Demonstração Online
 Clique no link abaixo para visualizar a loja em funcionamento:
-[COLE_AQUI_O_LINK_DO_SEU_GITHUB_PAGES]
+[https://rikelmy-pyton.github.io/catalogo-vendas-whatsapp/]
 
 ## ✨ Diferenciais do Projeto
 - **Foco em Conversão:** Botão de compra que gera um pedido formatado diretamente para o WhatsApp do vendedor.
