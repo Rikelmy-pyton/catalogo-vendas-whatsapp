@@ -19,3 +19,6 @@ Clique no link abaixo para visualizar a loja em funcionamento:
 
 ## 📝 Como usar este modelo
 Para adaptar esta loja para outro negócio, basta atualizar o arquivo `estoque.js` com os novos produtos, fotos e preços.
+
+### ✅ Atualização - Maio 2026
+- **Sincronização de Imagens:** Implementada a funcionalidade onde a foto do produto é atualizada automaticamente ao selecionar uma variação, melhorando a experiência de compra no mobile.
